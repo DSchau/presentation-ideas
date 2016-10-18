@@ -4,4 +4,4 @@ I'll put ideas for half-baked presentation ideas here... maybe revisit them late
 
 # Presentations
 
-[Learning React as an Angular Developer](#learning-react-as-angular-dev.md)
+[Learning React as an Angular Developer](learning-react-as-angular-dev.md)
